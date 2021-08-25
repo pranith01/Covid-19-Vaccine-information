@@ -1,5 +1,9 @@
 # Covid 19 Vaccine information
-During this pandemic many people has suffered to find availability of Vaccination centres near them ,My web app "FIND VACCINE" is the solution for people to get to know about the vaccine centres.
+
+During this pandemic many people has suffered to find availability of Vaccination centres near them
+
+
+My web app "FIND VACCINE" is the solution for people to get to know about the vaccine centres.
 
 
 
