@@ -6,6 +6,9 @@ During this pandemic many people has suffered to find availability of Vaccinatio
 My web app "FIND VACCINE" is the solution for people to get to know about the vaccine centres.
 
 
+Know more - https://pranith01.github.io/Covid-19-Vaccine-information/
+
+
 
 ![1](https://user-images.githubusercontent.com/84491319/130809767-d2150297-dca6-4ad2-bec3-a3aea12b250a.png)
 
